@@ -1,4 +1,4 @@
-package dias.silas.crud.saladereuniao.saladereuniao;
+package dias.silas.crud.salasdereuniao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
